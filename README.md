@@ -9,7 +9,9 @@ The purpose of this election audit analysis was to fulfill the tasks assigned to
 * There were 369,711 votes cast in this local, congressional election. We found the total votes by first initializing a total_votes variable to zero. Then, we looped through each row in the original csv file, each time adding 1 vote to the total_vote variable. 
 
 ![Initialize_Vote_Counter](https://user-images.githubusercontent.com/95589611/150697502-e6df6eaa-5cd6-4e16-aa7e-f84b390a2352.png)
+
 ![loop_through_total_votes](https://user-images.githubusercontent.com/95589611/150697504-177e8ff5-086a-4709-bef9-887b763ff154.png)
+
 ![Total_Votes](https://user-images.githubusercontent.com/95589611/150697514-36b4f73b-3a83-4df6-bdef-6b5851f5305a.png)
 
 * The number of votes and the percentage of total votes for each county in the presinct are as follows: 
