@@ -5,7 +5,9 @@
 The purpose of this election audit analysis was to fulfill the tasks assigned to me by a Colorado Board of Elections employee. I was to complete an election audit of a recent, local congressional election. The original data was a csv file which included the Ballot ID, County, and Candidate for each voter. My assignment was to analyze this data so that the outcome of the election audit was the winner of the election and the county with the most votes cast. 
 
 [PyPoll_Challenge.py](https://github.com/Lan-kdl/Election_Analysis/blob/main/PyPoll_Challenge.py)
+
 [Resources](https://github.com/Lan-kdl/Election_Analysis/tree/main/Resources) 
+
 The [analysis folder](https://github.com/Lan-kdl/Election_Analysis/tree/main/analysis) containing the [election_results.txt](https://github.com/Lan-kdl/Election_Analysis/blob/main/analysis/election_analysis.txt)
 
 ## Election-Audit Results
