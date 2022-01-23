@@ -60,7 +60,7 @@ The process for aquiring the vote count and percentage of total votes for each c
 
 Within a for loop which iterated through the rows of the original csv file, I assigned candidate_name to the second index (row three) and wrote a conditional statement that tested whether or not the current candidate_name was in the candidate_options list and if it was not to add it using the append() funtion. Withing this for loop I also began tracking the candidate vote count by setting it to zero and then adding one vote everytime it iterated through the list making sure to use the candidate_name as the index. 
 
-![candidate_breakdown](https://user-images.githubusercontent.com/95589611/150697822-5971730c-8c8d-481a-a76a-9a93eb16a304.png)
+![candidate_vote_loop](https://user-images.githubusercontent.com/95589611/150698855-425c3df8-5ff0-4a68-bf5c-a8c4e02934b3.png)
 
 To get the percentage of the candidate votes, I created a seperate for loop that would iterate through each of the candidate_names in the candidate_votes dictionary. Just like with the county_votes, I used the float() funtion to convert the integers into floating-point number so that I can execute the mathematical equation to aquire the percentage. 
 
